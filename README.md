@@ -3,6 +3,7 @@
 <h3>Engineer 🆒</h3>
 </div>
 <br/>
+![Profile views](https://komarev.com/ghpvc/?username=Moin333&color=blue)<br>
 🔭 I’m currently working on a Vendor Management System  <br>🌱 I’m currently learning FastAPI<br>
 👨‍💻 All of my projects are available at [my repositories](https://github.com/Moin333?tab=repositories)<br>
 💬 Ask me about AI, ML, DL, Next.js, Jetpack Compose, Firebase, etc.<br>
@@ -23,5 +24,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Moin333&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=Moin333&color=blue)
-
