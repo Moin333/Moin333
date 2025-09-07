@@ -1,13 +1,16 @@
 <div align="center">
-<h1>Hi there, I'm Moin 👋</h1>
-<h3>Engineer 🆒</h3>
+  <h1>Hi there, I'm Moin 👋</h1>
+  <h3>Engineer 🆒</h3>
 </div>
-<br/>
-![Profile views](https://komarev.com/ghpvc/?username=Moin333&color=blue)<br>
-🔭 I’m currently working on a Vendor Management System  <br>🌱 I’m currently learning FastAPI<br>
-👨‍💻 All of my projects are available at [my repositories](https://github.com/Moin333?tab=repositories)<br>
-💬 Ask me about AI, ML, DL, Next.js, Jetpack Compose, Firebase, etc.<br>
-📫 How to reach me: ansarimoin7861@gmail.com<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=Moin333&color=blue)  
+
+🔭 I’m currently working on a **Vendor Management System**  
+🌱 I’m currently learning **FastAPI**  
+👨‍💻 All of my projects are available at [my repositories](https://github.com/Moin333?tab=repositories)  
+💬 Ask me about **AI, ML, DL, Next.js, Jetpack Compose, Firebase, etc.**  
+📫 How to reach me: **ansarimoin7861@gmail.com**  
+
 
 
 ## 🌐 Socials:
