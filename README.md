@@ -1,26 +1,136 @@
 <div align="center">
-  <h1>Hi there, I'm Moin 👋</h1>
-  <h3>Engineer 🆒</h3>
+
+# Moin Ansari
+
+### AI Engineer
+
+I build production-grade AI systems — multi-agent architectures, LLM-powered applications, and the backend infrastructure that makes them reliable at scale.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moin-ansari-7394bb272/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ansarimoin7861@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Moin333)
+![Profile Views](https://komarev.com/ghpvc/?username=Moin333&color=0e75b6&style=flat)
+
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Moin333&color=blue)  
+---
 
-🔭 I’m currently working on a **Vendor Management System**  
-🌱 I’m currently learning **FastAPI**  
-👨‍💻 All of my projects are available at [my repositories](https://github.com/Moin333?tab=repositories)  
-💬 Ask me about **AI, ML, DL, Next.js, Jetpack Compose, Firebase, etc.**  
-📫 How to reach me: **ansarimoin7861@gmail.com**  
+## About
 
+I'm an AI Engineer with a strong foundation in full-stack development, currently focused on designing and deploying intelligent systems end-to-end. My work sits at the intersection of LLM orchestration, ML infrastructure, and scalable backend architecture.
 
+I care about AI that actually ships — systems that go from research to production with proper observability, fault tolerance, and maintainability. My background spans Android engineering, web development, and applied ML, which gives me a practical lens when designing AI-native products.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moin-ansari-7394bb272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansarimoin7861@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Moin333&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Moin333&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin333&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently building in the space of **agentic AI**, **RAG pipelines**, and **MLOps**.
 
 ---
+
+## Featured Projects
+
+### AURAChain — AI-Native Multi-Agent Business Intelligence Platform
+
+A production-grade platform that democratizes advanced business intelligence for MSMEs through autonomous multi-agent orchestration. Built a "Hub and Spoke" architecture where a central Claude 4.5 Sonnet orchestrator routes tasks across 7 specialized agents — each powered by the right model for the job (Gemini 2.0 Flash for trend analysis, GPT-4o for order management, Prophet-backed Claude for forecasting).
+
+**Highlights:**
+- Model-agnostic core integrating Anthropic Claude, Google Gemini 1.5/2.0, and OpenAI GPT-4o
+- Monte Carlo Tree Search (MCTS) engine for inventory optimization — simulates thousands of scenarios to compute optimal reorder policies
+- Full observability stack: OpenTelemetry + Prometheus + Grafana instrumentation
+- React-based agent execution plan visualization with live artifact rendering
+- Deployed on Railway with Docker Compose; PostgreSQL + Redis data layer
+
+`Python` `FastAPI` `React` `Claude 4.5` `Gemini 2.0` `GPT-4o` `MCTS` `OpenTelemetry` `Docker` `PostgreSQL` `Redis`
+
+[Live Demo](https://aurachain.up.railway.app/) · [Repository](https://github.com/Moin333/AURAChain)
+
+---
+
+### PRISM — Personalized Retail Intelligence & Sales Maestro
+
+Built for EY Techathon 6.0 (Challenge V: Retail, ABFRL). A three-tier AI orchestration system that solves the fragmented omnichannel retail experience — bridging Mobile, Web, Kiosk, and WhatsApp under a single persistent session layer with sub-150ms channel handoff latency.
+
+**Highlights:**
+- Event-sourced architecture using Apache Kafka for immutable interaction logs and perfect context reconstruction
+- Strategy Agent decoupled from the conversational layer — independently optimizes Average Order Value via real-time upsell injection
+- Unified omnichannel identity system linking sessions across touchpoints without re-authentication
+- Projected 429% ROI with +25% AOV increase at ABFRL scale (₹45L incremental monthly revenue per 100K users)
+- Vector embeddings via Pinecone for user preference modeling; Redis hot cache for <10ms session retrieval
+
+`Python` `FastAPI` `Apache Kafka` `Redis` `Pinecone` `LLM Agents` `Event Sourcing`
+
+[Repository](https://github.com/Moin333/PRISM-Retail)
+
+---
+
+### Other Work
+
+| Project | Stack | Description |
+|---|---|---|
+| [YC Directory](https://github.com/Moin333/YC_Directory) | Next.js 15, Sanity CMS, NextAuth | Startup discovery platform with GitHub auth and real-time view counters |
+| [Elixirs E-Commerce](https://github.com/Moin333/Elixirs-e-commerce) | MERN, Razorpay | Full-stack e-commerce with JWT auth, admin panel, and payment integration |
+| [Weather App](https://github.com/Moin333/weather-app) | Kotlin, Jetpack Compose, MVVM | Android weather app with adaptive theming and OpenWeatherMap API |
+| [Crypto Tracker](https://github.com/Moin333/CryptoTracker) | Kotlin, Ktor, Koin, Compose | Real-time crypto tracker with Koin DI, dark/light mode, tablet-responsive layout |
+| [Smart Calculator](https://github.com/Moin333/CalculatorApp) | Kotlin, Room DB, Retrofit | Scientific calculator with history, unit conversion, and live currency exchange rates |
+
+---
+
+## Technical Stack
+
+**AI & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Backend & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
+
+**Frontend & Mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Moin333&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Moin333&theme=catppuccin_latte&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin333&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+Open to AI Engineering roles, research collaborations, and interesting problems.  
+**ansarimoin7861@gmail.com**
+
+</div>
